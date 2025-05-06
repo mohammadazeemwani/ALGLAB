@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mohammadazeemwani/Developer/ALGOLAB/06-05-2025/quick-sort'
+relocations:     []
+...
